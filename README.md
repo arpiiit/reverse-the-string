@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.*;
   
-class GFG {
+class ABC {
   
     public static String ReverseString(String str)
     {
@@ -22,7 +22,7 @@ class GFG {
   
     public static void main(String[] args)
     {
-        String str1 = "GeeksForGeeks";
+        String str1 = "IAMARPIT";
         System.out.println(str1 + " <- Reverse -> "
                            + ReverseString(str1));
         String str2 = "Hello World";
